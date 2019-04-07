@@ -1,4 +1,4 @@
-# Cryptographic-Primitives-for-BlockChain-Python
+# Implementation of Cryptographic Primitives for BlockChain, by using Python 
 
 Developing essential building blocks of cryptocurrency using block chains;
 Signing given any message, generating a block of random transactions and PoW for the block,
